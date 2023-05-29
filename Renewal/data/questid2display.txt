@@ -7386,6 +7386,10 @@ Bat Bite 10#
 Breakfast seems to want to eat the bear's sole today. Let's bring 10 bear soles.#
 Bear's Paw 10#
 
+5920##morning menu selection#SG_FEEL#QUE_NOIMAGE#
+missing quest info
+#
+
 6000#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
 You've chosen your path to become a Taekwon. You must increase your base level and talk with Phoenix.#
 #
@@ -20600,7 +20604,7 @@ Reset at 04:00#
 
 14531#Everything about Con-Chliina#SG_FEEL#QUE_NOIMAGE#
 If you are first to Con-Chliina, it's always nice to meet the purser and listen to its story.#
-Meet the purser#
+Meet the Purser#
 
 14532#Greetings to Captain Gamberi#SG_FEEL#QUE_NOIMAGE#
 Now that you got on to Con-Chliina to explore a new continent, it's time to meet the members. First talk with Captain Gamberi.#
@@ -20635,8 +20639,8 @@ It seems Dragon living inside cave is a bit angry these days. Dragon's condition
 Check with Vigilante#
 
 14540#An errand out of nowhere#SG_FEEL#QUE_NOIMAGE#
-You really did it? I got chewed out from Sous Chef because of you, so you owe me this time. Get me 3 Basilac Clams. You can collect them by hunting Basilisks. This is for you, you know.#
-3 Basilac Clams#
+You really did it? I got chewed out from Sous Chef because of you, so you owe me this time. Get me 3 Basil Rocks. You can collect them by hunting Basilisks. This is for you, you know.#
+3 Basil Rocks#
 
 14541#No news is not a good news#SG_FEEL#QUE_NOIMAGE#
 The guy who went to check Dragon's status hasn't come back yet. Something must have happened. Follow me to the cave.#
@@ -20652,7 +20656,7 @@ Hunt Basilisk#
 
 14544#Now I can leave#SG_FEEL#QUE_NOIMAGE#
 At this moment, Basilisk will not tease me any more. I will go to bed now. It's time to say good bye. Adios.#
-Report to First Officer#
+Report to Chief Officer Stello#
 
 14545#To Purser#SG_FEEL#QUE_NOIMAGE#
 If it is the first time to get on the Con-Chliina, please get some information from Mr.Purser.#
